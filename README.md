@@ -1,1 +1,2 @@
-# A-AI-FREZZE
+# ventas-php
+Pequeño sistema de ventas en php y mysql
